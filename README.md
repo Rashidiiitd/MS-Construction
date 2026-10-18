@@ -42,4 +42,4 @@ In **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/
 
 ## Before launch
 
-Check all images and contact links on a phone, confirm the service descriptions and business details, and test GitHub Pages publishing.
+Test the website on a phone, check all image paths and contact links, confirm service descriptions and business details, and verify GitHub Pages publishing.
