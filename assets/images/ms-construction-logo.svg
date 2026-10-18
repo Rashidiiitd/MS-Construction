@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 112" role="img" aria-labelledby="title desc">
+<title id="title">MS Construction logo</title><desc id="desc">Navy and gold MS monogram with steel roof lines and Construction Steel and Fabrication Works lettering.</desc>
+<defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f5cf72"/><stop offset=".55" stop-color="#d99a2b"/><stop offset="1" stop-color="#a96813"/></linearGradient></defs>
+<g transform="translate(4 5)">
+<path d="M8 37 55 8 102 37" fill="none" stroke="url(#gold)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17 40V18M28 33V12M82 33V18M93 40V25" stroke="#d9a33b" stroke-width="3" opacity=".9"/>
+<path d="M10 86V43h14l19 25 19-25h14v43H60V62L43 83 26 62v24z" fill="#172b3a"/>
+<path d="M92 45h-22c-10 0-16 6-16 15 0 8 5 12 15 14l13 3c3 1 4 2 4 4s-2 3-5 3H55v10h27c12 0 19-6 19-15 0-8-5-13-15-15l-13-3c-3-.7-4-1.7-4-3.5 0-2 1.6-3 4-3h19z" transform="translate(3 -2)" fill="url(#gold)"/>
+<path d="M107 47h8v38h-8z" fill="#172b3a"/>
+</g>
+<g transform="translate(128 35)">
+<text x="0" y="22" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="800" letter-spacing=".6" fill="#172b3a">CONSTRUCTION</text>
+<path d="M0 34H218" stroke="url(#gold)" stroke-width="2"/>
+<text x="1" y="53" font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" letter-spacing="2.1" fill="#34495a">STEEL &amp; FABRICATION WORKS</text>
+</g></svg>
